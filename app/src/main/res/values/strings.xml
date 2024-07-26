@@ -1,0 +1,458 @@
+<resources>
+    <string name="app_name">KnoWoW</string>
+    <string-array name="science_facts_array">
+        <item>The speed of light in a vacuum is approximately 299,792 kilometers per second.</item>
+        <item>The human body contains about 37.2 trillion cells.</item>
+        <item>The Earth\'s atmosphere is composed of approximately 78% nitrogen and 21% oxygen.</item>
+        <item>The dinosaurs went extinct around 65 million years ago.</item>
+        <item>The universe is approximately 13.8 billion years old.</item>
+        <item>Water boils at 100 degrees Celsius (212 degrees Fahrenheit) at sea level.</item>
+        <item>The Great Barrier Reef is the largest coral reef system in the world.</item>
+        <item>The human brain contains about 86 billion neurons.</item>
+        <item>Mount Everest is the highest mountain above sea level, standing at 8,848 meters (29,029 feet).</item>
+        <item>The process of photosynthesis is how plants convert sunlight into energy.</item>
+        <item>Gravity is the force that attracts objects toward the center of the Earth.</item>
+        <item>Antibiotics are used to treat bacterial infections.</item>
+        <item>The theory of relativity was developed by Albert Einstein.</item>
+        <item>Viruses are microscopic infectious agents that can cause diseases in living organisms.</item>
+        <item>The Amazon Rainforest is the largest tropical rainforest in the world.</item>
+        <item>Newton\'s laws of motion describe the relationship between an object\'s motion and the forces acting on it.</item>
+        <item>The human body has 206 bones.</item>
+        <item>Sound travels faster through solids than through liquids and gases.</item>
+        <item>The Earth orbits the Sun once every 365.25 days.</item>
+        <item>The Milky Way galaxy is estimated to contain over 100 billion stars.</item>
+        <item>The process of nuclear fusion powers the Sun and other stars.</item>
+        <item>The human DNA contains approximately 3 billion base pairs.</item>
+        <item>The study of fossils is called paleontology.</item>
+        <item>The theory of evolution was proposed by Charles Darwin.</item>
+        <item>Thunderstorms are caused by the rapid expansion of air heated by lightning.</item>
+        <item>Chlorophyll is the pigment in plants that gives them their green color and enables photosynthesis.</item>
+        <item>The first moon landing occurred on July 20, 1969, during the Apollo 11 mission.</item>
+        <item>Electricity is the flow of electrons.</item>
+        <item>Acids have a pH less than 7, while bases have a pH greater than 7.</item>
+        <item>Plate tectonics is the theory that describes the movement of the Earth\'s lithospheric plates.</item>
+        <item>Marie Curie discovered radium and polonium and was the first woman to win a Nobel Prize.</item>
+        <item>Atoms are composed of protons, neutrons, and electrons.</item>
+        <item>The ozone layer protects the Earth from harmful ultraviolet radiation.</item>
+        <item>Archimedes\' principle states that an object submerged in a fluid experiences a buoyant force equal to the weight of the fluid it displaces.</item>
+        <item>Humans share about 98% of their DNA with chimpanzees.</item>
+        <item>Hydrogen is the most abundant element in the universe.</item>
+        <item>Albert Einstein\'s equation E=mc^2 relates mass and energy.</item>
+        <item>The Andromeda galaxy is the closest spiral galaxy to the Milky Way.</item>
+        <item>The process of sublimation occurs when a substance transitions directly from a solid to a gas without passing through the liquid state.</item>
+        <item>Carbon dioxide is a greenhouse gas that contributes to global warming.</item>
+        <item>The pH scale is a logarithmic scale used to measure the acidity or alkalinity of a solution.</item>
+        <item>Leonardo da Vinci sketched designs for a flying machine called an "ornithopter."</item>
+        <item>Light travels faster than sound, which is why we see lightning before we hear thunder.</item>
+        <item>The Hubble Space Telescope has provided astronomers with valuable insights into the universe.</item>
+        <item>The Earth\'s core is composed mainly of iron and nickel.</item>
+        <item>Mars is known as the "Red Planet" due to its iron oxide-rich surface.</item>
+        <item>The periodic table organizes chemical elements based on their atomic number and properties.</item>
+        <item>Galileo Galilei discovered the four largest moons of Jupiter.</item>
+    </string-array>
+
+    <string-array name="historical_facts_array">
+        <item>The Great Wall of China is over 13,000 miles long.</item>
+        <item>The Titanic sank on its maiden voyage in 1912.</item>
+        <item>The French Revolution began in 1789.</item>
+        <item>The American Civil War ended in 1865.</item>
+        <item>The Roman Empire fell in 476 AD.</item>
+        <item>The Black Death pandemic killed an estimated 75–200 million people in the 14th century.</item>
+        <item>Leonardo da Vinci painted the Mona Lisa in the early 16th century.</item>
+        <item>The first successful airplane flight was made by the Wright brothers in 1903.</item>
+        <item>The Declaration of Independence was signed in 1776.</item>
+        <item>Christopher Columbus reached the Americas in 1492.</item>
+        <item>Julius Caesar was assassinated in 44 BC.</item>
+        <item>The Industrial Revolution began in the late 18th century.</item>
+        <item>The Great Depression started in 1929.</item>
+        <item>The Magna Carta was signed in 1215, establishing the principle of rule of law.</item>
+        <item>The Battle of Waterloo in 1815 marked the end of the Napoleonic Wars.</item>
+        <item>The Cold War lasted from the mid-20th century until the early 1990s.</item>
+        <item>Albert Einstein formulated the theory of relativity in the early 20th century.</item>
+        <item>The fall of Constantinople occurred in 1453.</item>
+        <item>The Gutenberg Bible, the first major book printed using movable type, was printed in the 15th century.</item>
+        <item>The Mayan civilization flourished in Central America between 2000 BC and 900 AD.</item>
+        <item>Henry VIII of England separated the Church of England from the Roman Catholic Church in the 16th century.</item>
+        <item>The Battle of Gettysburg was a turning point in the American Civil War in 1863.</item>
+        <item>The Renaissance period began in Italy in the 14th century.</item>
+        <item>The moon landing by Apollo 11 took place in 1969.</item>
+        <item>The Treaty of Versailles was signed in 1919, ending World War I.</item>
+        <item>The Russian Revolution led to the establishment of the Soviet Union in 1917.</item>
+        <item>Joan of Arc played a significant role in the Hundred Years\' War in the 15th century.</item>
+        <item>The Battle of Hastings in 1066 saw the Norman conquest of England.</item>
+        <item>The Treaty of Westphalia in 1648 marked the end of the Thirty Years\' War in Europe.</item>
+        <item>The Great Fire of London occurred in 1666.</item>
+        <item>The construction of the pyramids of Giza in Egypt began around 2580 BC.</item>
+        <item>The Boston Tea Party took place in 1773 as a protest against British taxation.</item>
+        <item>The Berlin Wall fell in 1989, leading to the reunification of Germany.</item>
+        <item>The Code of Hammurabi was one of the earliest known written legal codes, created around 1754 BC.</item>
+        <item>Marco Polo\'s travels to Asia occurred in the late 13th century.</item>
+        <item>The Treaty of Tordesillas in 1494 divided the newly discovered lands between Spain and Portugal.</item>
+        <item>The Spanish Armada was defeated by the English fleet in 1588.</item>
+        <item>The Battle of Stalingrad was a major turning point in World War II in 1943.</item>
+        <item>The Great Famine in Ireland occurred between 1845 and 1849.</item>
+        <item>The Age of Exploration began in the late 15th century.</item>
+        <item>The Siege of Leningrad during World War II lasted from 1941 to 1944.</item>
+        <item>The signing of the Treaty of Ghent in 1814 ended the War of 1812 between the United States and Britain.</item>
+        <item>The fall of the Western Roman Empire occurred in 476 AD.</item>
+        <item>The Battle of Thermopylae took place in 480 BC.</item>
+        <item>The Treaty of Paris in 1783 formally ended the American Revolutionary War.</item>
+        <item>The assassination of Archduke Franz Ferdinand in 1914 triggered the start of World War I.</item>
+        <item>The publication of Charles Darwin\'s "On the Origin of Species" in 1859 revolutionized biology.</item>
+        <item>The construction of the Suez Canal was completed in 1869.</item>
+        <item>The Spanish Inquisition began in the late 15th century.</item>
+        <item>The Battle of the Bulge was a major offensive during World War II in 1944.</item>
+        <item>The Magna Carta influenced the development of constitutional law in England.</item>
+        <item>The Louisiana Purchase occurred in 1803, doubling the size of the United States.</item>
+        <item>The Battle of Midway was a pivotal naval battle in the Pacific Theater of World War II in 1942.</item>
+        <item>The fall of the Aztec Empire to Spanish conquistadors happened in the early 16th century.</item>
+    </string-array>
+
+    <string-array name="nature_facts_array">
+        <item>The Amazon Rainforest produces over 20% of the world\'s oxygen.</item>
+        <item>Mount Everest is the highest mountain above sea level.</item>
+        <item>Honey never spoils; archaeologists have discovered pots of honey in ancient Egyptian tombs that are over 3000 years old and still perfectly edible.</item>
+        <item>A single mature oak tree can produce enough oxygen for 10 people to breathe.</item>
+        <item>The Sahara Desert is the largest hot desert in the world.</item>
+        <item>Orcas, also known as killer whales, are actually the largest species of dolphin.</item>
+        <item>The blue whale is the largest animal ever known to have existed.</item>
+        <item>The monarch butterfly migrates up to 3,000 miles during its annual migration.</item>
+        <item>The northern lights (aurora borealis) are caused by charged particles from the sun interacting with the Earth\'s atmosphere.</item>
+        <item>A bolt of lightning can reach temperatures hotter than the surface of the sun.</item>
+        <item>Hummingbirds are the only birds that can fly backward.</item>
+        <item>There are more than 3 trillion trees on Earth.</item>
+        <item>The world\'s tallest tree, a coast redwood named Hyperion, stands over 379 feet tall.</item>
+        <item>Caterpillars have more muscles than humans.</item>
+        <item>Ants never sleep.</item>
+        <item>Blue whales communicate with each other using low-frequency sounds that can travel hundreds of miles underwater.</item>
+        <item>Sequoia trees can live for over 3,000 years.</item>
+        <item>The Venus flytrap is a carnivorous plant that catches and digests insects.</item>
+        <item>There are more than 1,500 species of cacti.</item>
+        <item>The Great Barrier Reef is the largest coral reef system in the world.</item>
+        <item>Bees communicate with each other by dancing.</item>
+        <item>The pistol shrimp can create a bubble that reaches temperatures hotter than the sun\'s surface when it snaps its claw.</item>
+        <item>Male seahorses give birth to their offspring.</item>
+        <item>Elephants can recognize themselves in a mirror, a trait shared by only a few other species.</item>
+        <item>The fastest land animal is the cheetah, which can reach speeds of up to 70 miles per hour.</item>
+        <item>Dragonflies have six legs but cannot walk.</item>
+        <item>Sea otters hold hands while sleeping to avoid drifting apart.</item>
+        <item>Octopuses have three hearts.</item>
+        <item>The sun is 330,000 times larger than Earth.</item>
+        <item>Bamboo can grow up to 35 inches in a single day.</item>
+        <item>Chameleons can move their eyes in two different directions at the same time.</item>
+        <item>Penguins propose to their mates with a pebble.</item>
+        <item>Blue-footed boobies perform a courtship dance involving their distinctive blue feet.</item>
+        <item>Whale sharks are the largest fish in the ocean.</item>
+        <item>Orchids are the largest family of flowering plants, with over 25,000 documented species.</item>
+        <item>Giraffes have the same number of neck vertebrae as humans (seven), but each vertebra is much larger.</item>
+        <item>The kākāpō, a critically endangered parrot from New Zealand, is the world\'s heaviest parrot.</item>
+        <item>Koalas sleep for up to 18 hours a day.</item>
+        <item>Butterflies taste with their feet.</item>
+        <item>The oldest living tree is believed to be a bristlecone pine named Methuselah, estimated to be over 4,800 years old.</item>
+        <item>The narwhal, often called the unicorn of the sea, has a long tusk that is actually an elongated tooth.</item>
+        <item>Arctic foxes change color with the seasons; they are brown in summer and white in winter.</item>
+        <item>The northern lights (aurora borealis) are named after the Roman goddess of dawn, Aurora, and the Greek name for the north wind, Boreas.</item>
+        <item>A group of flamingos is called a flamboyance.</item>
+        <item>Humpback whales create complex songs that can last up to 20 minutes and be heard over long distances.</item>
+        <item>Male penguins present females with a pebble as a gift during courtship.</item>
+        <item>The California redwood is the tallest tree species in the world.</item>
+        <item>Gorillas are herbivores that primarily eat leaves, shoots, fruits, and seeds.</item>
+        <item>Bald eagles are not actually bald; their name comes from an old English word that means "white-headed."</item>
+        <item>The Venus flytrap is native to a small region in North and South Carolina.</item>
+        <item>Albatrosses can fly for thousands of miles without stopping, using dynamic soaring techniques.</item>
+    </string-array>
+
+
+    <string-array name="coding_facts_array">
+        <item>JavaScript was created by Brendan Eich in 10 days.</item>
+        <item>The first computer bug was a real insect—a moth trapped in a Harvard Mark II computer in 1947.</item>
+        <item>The first high-level programming language was Fortran (FORmula TRANslation).</item>
+        <item>Python is named after Monty Python\'s Flying Circus, not the snake.</item>
+        <item>Alan Turing, known for his work in breaking the Enigma code during World War II, is considered the father of theoretical computer science and artificial intelligence.</item>
+        <item>HTML stands for Hypertext Markup Language.</item>
+        <item>Java was originally named Oak, after an oak tree outside James Gosling\'s office.</item>
+        <item>Grace Hopper, a pioneer in computer programming, popularized the term "bug" after finding a moth causing a malfunction in a computer system.</item>
+        <item>C is considered the mother of all programming languages.</item>
+        <item>Linux Torvalds initially developed the Linux kernel as a hobby.</item>
+        <item>PHP stands for "Personal Home Page" and later "Hypertext Preprocessor."</item>
+        <item>Bill Gates and Paul Allen wrote the first Microsoft BASIC interpreter for the Altair 8800 microcomputer.</item>
+        <item>Unicode supports over 143,000 characters covering 154 modern and historic scripts, as well as multiple symbol sets.</item>
+        <item>The first computer mouse was made of wood.</item>
+        <item>JavaScript was originally named "Mocha" and later "LiveScript" before settling on JavaScript.</item>
+        <item>The first email was sent by Ray Tomlinson in 1971, choosing the @ symbol to denote sending messages to other computers.</item>
+        <item>PHP was originally created to track online visitors to Rasmus Lerdorf\'s online resume.</item>
+        <item>The first video game ever made was "Tennis for Two" in 1958.</item>
+        <item>Amazon Web Services (AWS) was launched in 2006, offering cloud computing services.</item>
+        <item>Ctrl+C and Ctrl+V for copy and paste became popular due to the Apple Lisa computer.</item>
+        <item>Google was originally called BackRub, based on its original search technology.</item>
+        <item>Python is among the top programming languages for machine learning and data analysis.</item>
+        <item>The first domain name ever registered was symbolics.com on March 15, 1985.</item>
+        <item>HTML5 introduced new features like &lt;canvas&gt;, &lt;video&gt;, and &lt;audio&gt; elements.</item>
+        <item>Linux is the most widely used operating system for servers worldwide.</item>
+        <item>Facebook\'s original logo was designed by Mark Zuckerberg and Andrew McCollum using the typeface "Klavika."</item>
+        <item>Adobe Photoshop was first released in 1990, revolutionizing digital photo editing.</item>
+        <item>Python\'s readability and simplicity make it popular for beginners and experienced programmers alike.</item>
+        <item>The World Wide Web (WWW) was invented by Tim Berners-Lee in 1989.</item>
+        <item>Java was designed to be platform-independent, with the slogan "write once, run anywhere" (WORA).</item>
+        <item>MySQL was named after co-founder Michael Widenius\'s daughter, My.</item>
+        <item>jQuery, a popular JavaScript library, was released in 2006 to simplify HTML document traversal and manipulation.</item>
+        <item>Microsoft Windows 1.0 was released on November 20, 1985.</item>
+        <item>The concept of cloud computing dates back to the 1960s with J.C.R. Licklider\'s idea of an "Intergalactic Computer Network."</item>
+        <item>The first digital computer, ENIAC, weighed over 27 tons and had 17,468 vacuum tubes.</item>
+        <item>Java was first introduced by Sun Microsystems in 1995.</item>
+        <item>PHP is widely used for server-side scripting and web development.</item>
+        <item>Linus Torvalds chose the name "Linux" as a combination of "Linus" and "Unix."</item>
+        <item>Bitcoin, the first decentralized cryptocurrency, was invented in 2008 by an anonymous person or group using the pseudonym Satoshi Nakamoto.</item>
+        <item>The first version of the Internet Protocol (IPv4) was deployed in 1983.</item>
+        <item>The Dvorak Simplified Keyboard layout was designed to be more efficient than the QWERTY layout.</item>
+        <item>HTML was first proposed by Tim Berners-Lee in 1989.</item>
+        <item>Ada Lovelace, an English mathematician, is considered the first computer programmer for her work on Charles Babbage\'s early mechanical general-purpose computer, the Analytical Engine.</item>
+        <item>YouTube was founded by three former PayPal employees—Chad Hurley, Steve Chen, and Jawed Karim—in 2005.</item>
+        <item>Perl, known for its text processing capabilities, was created by Larry Wall in 1987.</item>
+        <item>The Unix operating system was developed at AT &amp;T\'s Bell Labs in the late 1960s and early 1970s.</item>
+        <item>Steve Wozniak, co-founder of Apple Inc., designed the Apple I and Apple II computers.</item>
+        <item>The first web browser, WorldWideWeb (later renamed Nexus), was created by Tim Berners-Lee in 1990.</item>
+        <item>The concept of object-oriented programming (OOP) was pioneered by Alan Kay and the team at Xerox PARC.</item>
+        <item>The Turing Award, often considered the Nobel Prize of computing, is named after Alan Turing.</item>
+        <item>JavaScript is used for both client-side and server-side web development.</item>
+        <item>Grace Hopper is credited with developing the first compiler for a computer programming language.</item>
+        <item>MySQL, an open-source relational database management system, was first released in 1995.</item>
+        <item>C++, an extension of the C programming language, was developed by Bjarne Stroustrup in 1979.</item>
+        <item>Apple\'s Swift programming language was introduced in 2014 as a replacement for Objective-C.</item>
+        <item>The concept of version control systems (VCS) was popularized by the development of CVS (Concurrent Versions System) in the 1980s.</item>
+    </string-array>
+
+
+    <string-array name="general_facts_array">
+        <item>Mount Everest is the highest mountain in the world, standing at 29,032 feet (8,848 meters) above sea level.</item>
+        <item>The Amazon Rainforest produces 20% of the world\'s oxygen supply.</item>
+        <item>The Nile River is the longest river in the world, stretching over 4,135 miles (6,650 kilometers).</item>
+        <item>Honey never spoils; archaeologists have discovered pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.</item>
+        <item>The Great Wall of China is over 13,000 miles long.</item>
+        <item>Octopuses have three hearts.</item>
+        <item>The coldest temperature ever recorded on Earth was -128.6 degrees Fahrenheit (-89.2 degrees Celsius) at the Soviet Union\'s Vostok Station in Antarctica in 1983.</item>
+        <item>Elephants are the only mammals that can\'t jump.</item>
+        <item>Bees communicate with one another by dancing.</item>
+        <item>The Earth\'s ozone layer protects life on Earth by absorbing harmful ultraviolet radiation from the Sun.</item>
+        <item>The blue whale is the largest animal to have ever lived on Earth, even bigger than the largest dinosaurs.</item>
+        <item>Lightning strikes the Earth about 100 times per second.</item>
+        <item>Chameleons can move their eyes in two directions at once, allowing them to look in two different directions simultaneously.</item>
+        <item>Antarctica is the driest continent on Earth; it\'s technically a desert.</item>
+        <item>The Sahara Desert expands by about 0.6 miles (1 kilometer) each month.</item>
+        <item>The human brain can generate about 23 watts of power, enough to power a light bulb.</item>
+        <item>Bananas are berries, but strawberries are not.</item>
+        <item>There are more trees on Earth than there are stars in the Milky Way galaxy.</item>
+        <item>Sharks existed on Earth before trees.</item>
+        <item>A group of flamingos is called a "flamboyance."</item>
+        <item>Some cats are allergic to humans.</item>
+        <item>Goldfish can distinguish between music composed by different composers.</item>
+        <item>The oldest known living land animal is a tortoise named Jonathan, who is over 189 years old.</item>
+        <item>The Arctic Ocean is the smallest and shallowest of the world\'s five oceans.</item>
+        <item>Polar bears have black skin under their white fur.</item>
+        <item>The snow leopard is the national symbol of Pakistan.</item>
+        <item>The fastest land animal is the cheetah, which can reach speeds of up to 75 miles per hour (120 kilometers per hour).</item>
+        <item>There are more possible iterations of a game of chess than there are atoms in the observable universe.</item>
+        <item>Hippopotamuses produce their own sunscreen in the form of a reddish sweat.</item>
+        <item>The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.</item>
+        <item>The Eiffel Tower can be 15 centimeters taller during the summer due to the expansion of the iron as it heats up.</item>
+        <item>Light takes approximately 8 minutes and 20 seconds to travel from the Sun to the Earth.</item>
+        <item>Human bones are ounce for ounce stronger than steel.</item>
+        <item>Elephants can\'t jump, but they can run at speeds of up to 25 miles per hour (40 kilometers per hour).</item>
+        <item>There are more stars in the universe than grains of sand on Earth.</item>
+        <item>Sound travels about 4 times faster in water than in air.</item>
+        <item>Honeybees can recognize human faces.</item>
+        <item>The human body has more than 600 muscles.</item>
+        <item>Giraffes have the same number of vertebrae in their necks as humans—seven.</item>
+        <item>The first oranges weren\'t orange; they were green.</item>
+        <item>Earth has more than 80,000 species of edible plants.</item>
+        <item>A single strand of spaghetti is called a "spaghetto."</item>
+        <item>The unicorn is the national animal of Scotland.</item>
+        <item>Koalas sleep up to 22 hours a day.</item>
+        <item>Crocodiles have been around for over 200 million years, surviving the mass extinction of the dinosaurs.</item>
+        <item>The largest known living organism is a fungus in Oregon\'s Malheur National Forest that covers an area of over 2,385 acres (965 hectares).</item>
+        <item>The world\'s oldest known animal fossil is from a 558-million-year-old jellyfish.</item>
+        <item>The world\'s smallest mammal is the bumblebee bat, which weighs less than a penny.</item>
+        <item>The longest recorded flight of a chicken is 13 seconds.</item>
+        <item>The shortest war in history was between Britain and Zanzibar on August 27, 1896, lasting only 38 minutes.</item>
+        <item>Honey never spoils; archaeologists have discovered pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.</item>
+        <item>Cats have five toes on their front paws but only four toes on their back paws.</item>
+        <item>The world\'s smallest bird is the bee hummingbird, which measures only 2.25 inches (5.7 centimeters) long.</item>
+        <item>Octopuses have three hearts.</item>
+        <item>Koalas have unique fingerprints, just like humans.</item>
+        <item>Whales are mammals, not fish.</item>
+        <item>Sharks existed on Earth before trees.</item>
+        <item>Antarctica is the driest continent on Earth; it\'s technically a desert.</item>
+        <item>The Sahara Desert expands by about 0.6 miles (1 kilometer) each month.</item>
+    </string-array>
+
+    <string-array name="geography_facts_array">
+        <item>The Earth\'s circumference at the equator is about 24,901 miles (40,075 kilometers).</item>
+        <item>The deepest point in the ocean is the Mariana Trench, which reaches a depth of about 36,070 feet (10,994 meters).</item>
+        <item>The highest mountain outside of Asia is Mount Aconcagua in South America, standing at 22,841 feet (6,962 meters) above sea level.</item>
+        <item>The world\'s largest desert is the Sahara Desert in Africa, covering an area of over 3.6 million square miles (9.4 million square kilometers).</item>
+        <item>Greenland is the largest island in the world.</item>
+        <item>The Dead Sea is the lowest point on Earth\'s land surface, located at approximately 1,410 feet (430 meters) below sea level.</item>
+        <item>Europe is the only continent without a desert.</item>
+        <item>The longest river in the world is the Nile River in Africa, stretching over 4,135 miles (6,650 kilometers).</item>
+        <item>The Amazon Rainforest is the largest tropical rainforest in the world, spanning over 2.1 million square miles (5.5 million square kilometers).</item>
+        <item>The Great Barrier Reef off the coast of Australia is the largest coral reef system in the world, stretching over 1,400 miles (2,300 kilometers).</item>
+        <item>The Pacific Ocean is the largest ocean on Earth, covering about 63 million square miles (165 million square kilometers).</item>
+        <item>Mount Everest, located in the Himalayas, is the highest mountain in the world, standing at 29,032 feet (8,848 meters) above sea level.</item>
+        <item>The capital of Australia is Canberra.</item>
+        <item>The United States has the longest coastline of any country in the world, stretching over 95,000 miles (152,000 kilometers).</item>
+        <item>The world\'s largest country by land area is Russia, covering more than 17 million square kilometers (6.6 million square miles).</item>
+        <item>The driest inhabited continent on Earth is Australia.</item>
+        <item>The Andes Mountains in South America is the longest continental mountain range in the world, stretching over 4,300 miles (7,000 kilometers).</item>
+        <item>Japan is known as the "Land of the Rising Sun."</item>
+        <item>The city of Venice in Italy is built on a group of 118 small islands separated by canals and linked by bridges.</item>
+        <item>The longest international border in the world is between Canada and the United States, stretching over 5,525 miles (8,891 kilometers).</item>
+        <item>Antarctica is the coldest, windiest, and driest continent on Earth.</item>
+        <item>The Equator divides the Earth into the Northern Hemisphere and the Southern Hemisphere.</item>
+        <item>The Mediterranean Sea is almost completely enclosed by land, bordered by Europe, Africa, and Asia.</item>
+        <item>The Sahara Desert expands by about 0.6 miles (1 kilometer) each month.</item>
+        <item>The Panama Canal connects the Atlantic Ocean to the Pacific Ocean, allowing ships to bypass the long journey around South America.</item>
+        <item>The Seven Wonders of the Ancient World include the Great Pyramid of Giza, the Hanging Gardens of Babylon, and the Statue of Zeus at Olympia.</item>
+        <item>The largest island country in the world by land area is Indonesia, consisting of over 17,000 islands.</item>
+        <item>The Indian Ocean is the third-largest ocean in the world, covering about 70.56 million square kilometers (27.24 million square miles).</item>
+        <item>The Strait of Gibraltar separates Europe from Africa and connects the Atlantic Ocean to the Mediterranean Sea.</item>
+        <item>The Gobi Desert is located in northern China and southern Mongolia, covering an area of about 500,000 square miles (1.3 million square kilometers).</item>
+        <item>The Great Dividing Range is a series of mountain ranges that runs along the eastern coast of Australia.</item>
+        <item>The Gulf of Mexico is bordered by the United States, Mexico, and Cuba.</item>
+        <item>The Alps mountain range spans across several European countries, including France, Switzerland, Italy, Austria, and Germany.</item>
+        <item>The Danube River is the second-longest river in Europe, flowing through 10 countries before emptying into the Black Sea.</item>
+        <item>Peru is home to Machu Picchu, an ancient Incan city located high in the Andes Mountains.</item>
+        <item>The Himalayas are the youngest and tallest mountain range in the world, spanning across five countries: India, Nepal, Bhutan, China, and Pakistan.</item>
+        <item>Victoria Falls, located on the border between Zambia and Zimbabwe, is one of the largest and most spectacular waterfalls in the world.</item>
+        <item>The Great Lakes in North America consist of five interconnected freshwater lakes: Lake Superior, Lake Michigan, Lake Huron, Lake Erie, and Lake Ontario.</item>
+        <item>The Atacama Desert in South America is one of the driest places on Earth.</item>
+        <item>The Bering Strait separates Russia and Alaska by about 55 miles (88 kilometers) at its narrowest point.</item>
+        <item>The Grand Canyon in the United States is a massive gorge carved by the Colorado River over millions of years.</item>
+        <item>The Sahara Desert covers large parts of North Africa, including Algeria, Chad, Egypt, Libya, Mali, Mauritania, Morocco, Niger, Sudan, and Tunisia.</item>
+        <item>The Mediterranean Sea is almost completely enclosed by land, bordered by Europe, Africa, and Asia.</item>
+        <item>The Appalachian Mountains stretch from Georgia in the United States all the way to Newfoundland and Labrador in Canada.</item>
+        <item>The city of Venice in Italy is built on a group of 118 small islands separated by canals and linked by bridges.</item>
+        <item>The longest international border in the world is between Canada and the United States, stretching over 5,525 miles (8,891 kilometers).</item>
+        <item>Antarctica is the coldest, windiest, and driest continent on Earth.</item>
+        <item>The Equator divides the Earth into the Northern Hemisphere and the Southern Hemisphere.</item>
+        <item>The Mediterranean Sea is almost completely enclosed by land, bordered by Europe, Africa, and Asia.</item>
+        <item>The Sahara Desert expands by about 0.6 miles (1 kilometer) each month.</item>
+        <item>The Panama Canal connects the Atlantic Ocean to the Pacific Ocean, allowing ships to bypass the long journey around South America.</item>
+        <item>The Seven Wonders of the Ancient World include the Great Pyramid of Giza, the Hanging Gardens of Babylon, and the Statue of Zeus at Olympia.</item>
+        <item>The largest island country in the world by land area is Indonesia, consisting of over 17,000 islands.</item>
+        <item>The Indian Ocean is the third-largest ocean in the world, covering about 70.56 million square kilometers (27.24 million square miles).</item>
+    </string-array>
+
+
+    <string-array name="sports_facts_array">
+        <item>The Olympic Games originated in ancient Greece and were revived in the modern era in 1896.</item>
+        <item>Basketball was invented by Dr. James Naismith in 1891.</item>
+        <item>Michael Phelps holds the record for the most Olympic gold medals won by an individual athlete.</item>
+        <item>The FIFA World Cup is the most-watched sporting event in the world, with billions of viewers.</item>
+        <item>The Tour de France is one of the oldest and most prestigious bicycle races, held annually since 1903.</item>
+        <item>Tennis player Serena Williams holds the record for the most Grand Slam singles titles in the Open Era.</item>
+        <item>Major League Baseball (MLB) is the oldest professional sports league in the United States.</item>
+        <item>Football (soccer) is the most popular sport in the world in terms of participation and fan base.</item>
+        <item>The first modern Summer Olympic Games were held in Athens, Greece, in 1896.</item>
+        <item>Golf is one of the few sports to have been played on the moon, with astronaut Alan Shepard hitting a golf ball during the Apollo 14 mission.</item>
+        <item>Usain Bolt holds the world record for the fastest 100-meter sprint, with a time of 9.58 seconds.</item>
+        <item>Baseball player Jackie Robinson broke the color barrier in Major League Baseball when he joined the Brooklyn Dodgers in 1947.</item>
+        <item>Cricket is one of the most popular sports in India, with a massive following across the country.</item>
+        <item>Boxer Muhammad Ali, known as "The Greatest," was a three-time heavyweight champion and Olympic gold medalist.</item>
+        <item>Ice hockey is the national winter sport of Canada.</item>
+        <item>The Super Bowl is the annual championship game of the National Football League (NFL) in the United States.</item>
+        <item>Figure skater Tonya Harding was involved in a scandal when her rival, Nancy Kerrigan, was attacked before the 1994 Winter Olympics.</item>
+        <item>The NBA (National Basketball Association) was founded in 1946.</item>
+        <item>Tiger Woods became the youngest golfer to win the Masters Tournament in 1997.</item>
+        <item>The Boston Red Sox ended the "Curse of the Bambino" by winning the World Series in 2004.</item>
+        <item>Simone Biles is one of the most decorated gymnasts in history, known for her incredible athleticism and skills.</item>
+        <item>The Rugby World Cup is held every four years and is one of the premier international rugby union competitions.</item>
+        <item>Wimbledon is the oldest tennis tournament in the world, dating back to 1877.</item>
+        <item>Formula One racing is one of the most popular motorsports in the world, featuring high-speed cars and thrilling races.</item>
+        <item>The New York Yankees have won the most World Series titles in Major League Baseball history.</item>
+        <item>Surfing originated in ancient Polynesian culture and has evolved into a popular sport enjoyed worldwide.</item>
+        <item>Michael Jordan is widely regarded as one of the greatest basketball players of all time.</item>
+        <item>The Ryder Cup is a prestigious golf competition held between teams from Europe and the United States.</item>
+        <item>Shaun White is a legendary snowboarder known for his dominance in the sport and Olympic success.</item>
+        <item>Formula One racing drivers can experience forces of up to 5G during high-speed corners.</item>
+        <item>Tennis player Martina Navratilova holds the record for the most Grand Slam titles in history, with 18 singles titles and 31 doubles titles.</item>
+        <item>Soccer player Pelé is considered one of the greatest footballers of all time, winning three FIFA World Cups with Brazil.</item>
+        <item>The Pittsburgh Steelers have won the most Super Bowl titles in NFL history.</item>
+        <item>The Summer and Winter Olympics are held every four years, alternating every two years.</item>
+        <item>The Masters Tournament is one of golf\'s major championships, held annually at Augusta National Golf Club.</item>
+        <item>Nadia Comaneci became the first gymnast to score a perfect 10 at the Olympic Games in 1976.</item>
+        <item>The New England Patriots achieved a perfect season in 2007, winning all of their regular-season games and reaching the Super Bowl.</item>
+        <item>Swimming legend Mark Spitz won a record seven gold medals at the 1972 Summer Olympics in Munich.</item>
+        <item>The Stanley Cup is the oldest trophy awarded in professional sports, dating back to 1893.</item>
+        <item>Alpine skiing features events such as downhill, slalom, giant slalom, and super-G.</item>
+        <item>The Chicago Bulls dominated the NBA in the 1990s, winning six championships with Michael Jordan.</item>
+        <item>The FIFA Women\'s World Cup is held every four years and features the top women\'s national soccer teams.</item>
+        <item>Skateboarding will make its debut as an Olympic sport at the 2021 Summer Olympics in Tokyo.</item>
+        <item>The Los Angeles Lakers have won multiple NBA championships, led by basketball legends such as Magic Johnson and Kobe Bryant.</item>
+        <item>Surfer Bethany Hamilton returned to competitive surfing after losing her arm in a shark attack.</item>
+        <item>The Indianapolis 500 is one of the oldest motorsports events in the world, held annually at the Indianapolis Motor Speedway.</item>
+        <item>Boxer Floyd Mayweather Jr. retired undefeated with a record of 50–0.</item>
+        <item>Women\'s soccer has grown significantly in popularity, with major international tournaments attracting millions of viewers.</item>
+        <item>Cricket is particularly popular in countries such as India, England, Australia, Pakistan, and South Africa.</item>
+        <item>Swimmer Michael Phelps holds the record for the most Olympic gold medals won by an individual athlete.</item>
+        <item>Golfer Jack Nicklaus, known as the "Golden Bear," has won a record 18 major championships.</item>
+        <item>The NFL Draft is an annual event where teams select college football players to join their rosters.</item>
+        <item>Table tennis is an Olympic sport known for its fast-paced rallies and precision.</item>
+    </string-array>
+
+
+    <string-array name="technology_facts_array">
+        <item>The first computer virus was created in 1983 and was named the "Elk Cloner."</item>
+        <item>Amazon, initially an online bookstore, is now one of the world\'s largest e-commerce platforms.</item>
+        <item>Google\'s first tweet was "I\'m feeling lucky" written in binary code.</item>
+        <item>The first domain name ever registered was symbolics.com on March 15, 1985.</item>
+        <item>Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne on April 1, 1976.</item>
+        <item>The first webcam was created at the University of Cambridge to monitor a coffee pot.</item>
+        <item>HTML (Hypertext Markup Language) was invented by Sir Tim Berners-Lee in 1991.</item>
+        <item>Wi-Fi technology was invented by Australian scientists in 1992.</item>
+        <item>IBM developed the first hard disk drive (HDD) in 1956, which could store 5 MB of data.</item>
+        <item>The computer mouse was invented by Douglas Engelbart in 1964 and was made of wood.</item>
+        <item>Microsoft was founded by Bill Gates and Paul Allen on April 4, 1975.</item>
+        <item>The first iPhone was released by Apple Inc. on June 29, 2007.</item>
+        <item>The World Wide Web (WWW) was introduced to the public by Tim Berners-Lee in 1991.</item>
+        <item>The first mobile phone call was made by Martin Cooper on April 3, 1973.</item>
+        <item>The term "Bluetooth" is named after a 10th-century Danish king, King Harald "Bluetooth" Gormsson.</item>
+        <item>Linux, an open-source operating system, was created by Linus Torvalds in 1991.</item>
+        <item>YouTube was founded by Steve Chen, Chad Hurley, and Jawed Karim on February 14, 2005.</item>
+        <item>Adobe Photoshop, the first version of which was released in 1990, revolutionized digital photo editing.</item>
+        <item>Microsoft Windows was first released on November 20, 1985, as Windows 1.0.</item>
+        <item>The Apple II, released in 1977, was one of the first highly successful mass-produced personal computers.</item>
+        <item>The term "bug" in computer science originated from an actual moth found inside a computer in 1947.</item>
+        <item>The first email was sent by Ray Tomlinson in 1971, marking a significant milestone in digital communication.</item>
+        <item>The International Space Station (ISS) has its own Linux-based computer system.</item>
+        <item>The computer programming language Python was named after the British comedy group Monty Python.</item>
+        <item>The concept of virtual reality (VR) dates back to the 1950s, although modern VR technology emerged in the 1990s.</item>
+        <item>Bitcoin, the first decentralized cryptocurrency, was introduced by an unknown person or group of people using the pseudonym Satoshi Nakamoto in 2008.</item>
+        <item>The world\'s first 1 GB hard drive was announced by IBM in 1980 and weighed over 500 pounds.</item>
+        <item>Artificial intelligence (AI) has been a subject of research since the 1950s, with significant advancements in recent years.</item>
+        <item>Alan Turing, an English mathematician and computer scientist, is considered the father of theoretical computer science and artificial intelligence.</item>
+        <item>The USB (Universal Serial Bus) standard was first introduced in 1996 to simplify the connection of peripheral devices to computers.</item>
+        <item>The concept of a "mouse" for computer navigation was first described by Douglas Engelbart in the 1960s.</item>
+        <item>HTML5, the latest version of HTML, introduced many new features for web development and multimedia integration.</item>
+        <item>IBM\'s Deep Blue became the first computer to defeat a reigning world chess champion, Garry Kasparov, in 1997.</item>
+        <item>The term "hackathon" originated from combining "hack" and "marathon" to describe an event where programmers collaborate intensively on software projects.</item>
+        <item>The first successful 3D printer was developed by Chuck Hull in the mid-1980s, using a technique called stereolithography.</item>
+        <item>The concept of cloud computing, where data and applications are hosted remotely and accessed over the internet, emerged in the early 2000s.</item>
+        <item>The Apollo Guidance Computer, used in the Apollo missions to the moon, was one of the first examples of a digital fly-by-wire system.</item>
+        <item>IBM\'s Watson, a cognitive computing system, famously competed and won in the quiz show Jeopardy! in 2011.</item>
+        <item>The first graphical web browser, Mosaic, was developed by Marc Andreessen and Eric Bina in 1993.</item>
+        <item>GPS (Global Positioning System) technology was developed by the U.S. Department of Defense and became fully operational in 1995.</item>
+        <item>The world\'s first website was created by Tim Berners-Lee and went live on August 6, 1991.</item>
+        <item>Intel introduced the first commercially available microprocessor, the Intel 4004, in 1971.</item>
+        <item>The concept of "augmented reality" (AR), where digital information is overlaid on the real world, gained popularity with applications like Pokémon GO.</item>
+        <item>Apple\'s App Store was launched in 2008, revolutionizing mobile software distribution and app development.</item>
+        <item>Ada Lovelace, known as the world\'s first computer programmer, wrote algorithms for Charles Babbage\'s Analytical Engine in the 19th century.</item>
+        <item>Internet Explorer was first released by Microsoft in 1995 as part of the Windows 95 operating system.</item>
+        <item>The concept of "open source" software, where source code is made freely available for modification and distribution, gained prominence in the late 1990s.</item>
+        <item>Bill Gates, co-founder of Microsoft, famously predicted the rise of tablet computing and touchscreen devices in the 1990s.</item>
+        <item>The concept of "big data" emerged as organizations began to grapple with vast amounts of digital information generated by the internet and other sources.</item>
+        <item>The Large Hadron Collider (LHC), the world\'s largest and most powerful particle accelerator, relies on advanced computing systems for data analysis.</item>
+        <item>The first commercial text message was sent in 1992, marking the beginning of SMS (Short Message Service) communication.</item>
+    </string-array>
+
+
+</resources>
