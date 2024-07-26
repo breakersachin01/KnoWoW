@@ -29,7 +29,7 @@ KnoWoW is an Android mobile application designed to deliver interesting and enga
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone []()
+   git clone [https://github.com/Sachin/knowow.git](https://github.com/breakersachin01/KnoWoW)
    ```
 
 2. Open the project in Android Studio.
@@ -65,6 +65,6 @@ Contributions to this project are welcome and encouraged! Here's how you can con
 5. Push to the branch (`git push origin feature/your-feature`).
 6. Create a new Pull Request.
 
-![Alt Text]()
+![Alt Text](https://github.com/Javed0-786/PrivacyPolicyKnoWow/blob/main/ScreenShot.png)
 
 ---
